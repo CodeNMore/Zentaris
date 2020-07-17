@@ -1,0 +1,692 @@
+
+textures.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+effect/particle
+  rotate: false
+  xy: 288, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+effect/particle
+  rotate: false
+  xy: 305, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+effect/particle
+  rotate: false
+  xy: 305, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+effect/particle
+  rotate: false
+  xy: 322, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+effect/particle
+  rotate: false
+  xy: 322, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+effect/particle
+  rotate: false
+  xy: 339, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 6
+effect/redtrans
+  rotate: false
+  xy: 509, 121
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/small_particle
+  rotate: false
+  xy: 424, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+effect/small_particle
+  rotate: false
+  xy: 441, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+effect/small_particle
+  rotate: false
+  xy: 441, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+effect/white
+  rotate: false
+  xy: 144, 71
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/whitetrans
+  rotate: false
+  xy: 127, 28
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eye/blink
+  rotate: false
+  xy: 152, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+eye/blink
+  rotate: false
+  xy: 169, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+eye/blink
+  rotate: false
+  xy: 68, 10
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+eye/blink
+  rotate: false
+  xy: 127, 39
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+eye/blink
+  rotate: false
+  xy: 169, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+eye/standing
+  rotate: false
+  xy: 458, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+eye/standing
+  rotate: false
+  xy: 475, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+eye/standing
+  rotate: false
+  xy: 475, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+eye/standing
+  rotate: false
+  xy: 492, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+eye/standing
+  rotate: false
+  xy: 492, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+eye/standing
+  rotate: false
+  xy: 152, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 6
+eye/standing
+  rotate: false
+  xy: 169, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 7
+eye/standing
+  rotate: false
+  xy: 186, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 8
+eye/standing
+  rotate: false
+  xy: 203, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 9
+item/pebble
+  rotate: false
+  xy: 492, 80
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+item/projectile
+  rotate: false
+  xy: 119, 20
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+item/rock
+  rotate: false
+  xy: 424, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+item/slime
+  rotate: false
+  xy: 51, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+item/slingshot
+  rotate: false
+  xy: 60, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+item/stick
+  rotate: false
+  xy: 69, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+item/tree
+  rotate: false
+  xy: 322, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+player/attack
+  rotate: false
+  xy: 152, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+player/attack
+  rotate: false
+  xy: 51, 10
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+player/standing
+  rotate: false
+  xy: 51, 10
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+player/attack
+  rotate: false
+  xy: 127, 56
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+player/left
+  rotate: false
+  xy: 220, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+player/left
+  rotate: false
+  xy: 237, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+player/left
+  rotate: false
+  xy: 254, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+player/right
+  rotate: false
+  xy: 339, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+player/right
+  rotate: false
+  xy: 356, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+player/right
+  rotate: false
+  xy: 373, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+player/standing
+  rotate: false
+  xy: 458, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+player/swim_left
+  rotate: false
+  xy: 220, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+player/swim_left
+  rotate: false
+  xy: 237, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+player/swim_left
+  rotate: false
+  xy: 254, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+player/swim_right
+  rotate: false
+  xy: 271, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+player/swim_right
+  rotate: false
+  xy: 288, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+player/swim_right
+  rotate: false
+  xy: 305, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+slime/left
+  rotate: false
+  xy: 220, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+slime/left
+  rotate: false
+  xy: 237, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+slime/left
+  rotate: false
+  xy: 237, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+slime/left
+  rotate: false
+  xy: 254, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+slime/left
+  rotate: false
+  xy: 271, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+slime/left
+  rotate: false
+  xy: 271, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 6
+slime/left
+  rotate: false
+  xy: 271, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 8
+slime/left
+  rotate: false
+  xy: 288, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 7
+slime/right
+  rotate: false
+  xy: 356, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+slime/right
+  rotate: false
+  xy: 373, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+slime/right
+  rotate: false
+  xy: 373, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+slime/right
+  rotate: false
+  xy: 390, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+slime/right
+  rotate: false
+  xy: 390, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+slime/right
+  rotate: false
+  xy: 407, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 6
+slime/right
+  rotate: false
+  xy: 407, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 8
+slime/right
+  rotate: false
+  xy: 407, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 7
+tile/grass
+  rotate: false
+  xy: 186, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tile/grass_b
+  rotate: false
+  xy: 85, 10
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tile/grass_decorated
+  rotate: false
+  xy: 186, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tile/grass_l
+  rotate: false
+  xy: 203, 106
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tile/grass_r
+  rotate: false
+  xy: 102, 10
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tile/grass_t
+  rotate: false
+  xy: 203, 89
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tile/wall
+  rotate: false
+  xy: 339, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tile/water
+  rotate: false
+  xy: 356, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tile/water
+  rotate: false
+  xy: 356, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 8
+tile/water
+  rotate: false
+  xy: 356, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 11
+tile/water
+  rotate: false
+  xy: 356, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 12
+tile/water
+  rotate: false
+  xy: 356, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 6
+tile/water
+  rotate: false
+  xy: 356, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 10
+tile/water
+  rotate: false
+  xy: 356, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 9
+tile/water
+  rotate: false
+  xy: 356, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 7
+tile/water
+  rotate: false
+  xy: 356, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 13
+tile/water
+  rotate: false
+  xy: 373, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+tile/water
+  rotate: false
+  xy: 390, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+tile/water
+  rotate: false
+  xy: 407, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+tile/water
+  rotate: false
+  xy: 424, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+tile/water_t
+  rotate: false
+  xy: 441, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tile/water_t
+  rotate: false
+  xy: 441, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+tile/water_t
+  rotate: false
+  xy: 458, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+tile/water_t
+  rotate: false
+  xy: 458, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+tile/water_t
+  rotate: false
+  xy: 475, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+tile/water_t
+  rotate: false
+  xy: 475, 72
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 6
+ui/button
+  rotate: false
+  xy: 1, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/button_down
+  rotate: false
+  xy: 127, 98
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/heart
+  rotate: false
+  xy: 127, 30
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+ui/inventory_slot
+  rotate: false
+  xy: 26, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/special_slot
+  rotate: false
+  xy: 127, 73
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/window_bg
+  rotate: false
+  xy: 1, 27
+  size: 125, 95
+  orig: 125, 95
+  offset: 0, 0
+  index: -1
